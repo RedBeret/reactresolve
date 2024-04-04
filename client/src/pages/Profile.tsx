@@ -106,9 +106,6 @@ const Profile = () => {
                 pharetra ligula sed, aliquam lacus.
               </p>
             </div>
-
-            
-          
           </div>
         </div>
       </div>
