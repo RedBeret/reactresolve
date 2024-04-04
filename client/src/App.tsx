@@ -37,7 +37,7 @@ function App() {
           index
           element={
             <>
-              <PageTitle title="eCommerce Dashboard" />
+              <PageTitle title="Dashboard" />
               <ECommerce />
             </>
           }
