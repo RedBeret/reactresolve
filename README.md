@@ -60,4 +60,4 @@ This serves the contents of the `dist` folder, allowing you to preview the produ
 
 ---
 
-ReactResolve is actively developed and maintained. Contributions, feedback, and suggestions are always welcome to make it more efficient and user-friendly
+ReactResolve is actively developed and maintained. Contributions, feedback, and suggestions are always welcome to make it more efficient and user-friendly.
